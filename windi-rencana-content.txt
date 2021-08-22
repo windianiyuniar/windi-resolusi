@@ -3,10 +3,10 @@ RENCANA KONTEN WINDI
 - Javascript
   *ES6
   *Framework javascript
-   ^Angular
-   ^React
+    ^Vue
+    ^React
 - Struktur data dasar
 - PHP Frameworks
   ^laravel
-- Interview
 - Vlogs
+-Pyton
