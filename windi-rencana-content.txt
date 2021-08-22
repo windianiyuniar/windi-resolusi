@@ -3,6 +3,7 @@ RENCANA KONTEN WINDI
 - Javascript
   *ES6
   *Framework javascript
+- Struktur data dasar
 - PHP Frameworks
 - Interview
 - Vlogs
