@@ -4,6 +4,7 @@ RENCANA KONTEN WINDI
   *ES6
   *Framework javascript
     ^Vue
+    ^React
 - Struktur data dasar
 - PHP Frameworks
   ^Laravel
