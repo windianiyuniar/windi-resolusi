@@ -7,7 +7,6 @@ RENCANA KONTEN WINDI
     ^React
 - Struktur data dasar
 - PHP Frameworks
-  ^Laravel
-- Interview
+  ^laravel
 - Vlogs
 -Pyton
