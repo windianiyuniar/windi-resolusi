@@ -1,6 +1,8 @@
 RENCANA KONTEN WINDI
 
 - Javascript
+  *ES6
+  *Framework javascript
 - PHP Frameworks
 - Interview
 - Vlogs
